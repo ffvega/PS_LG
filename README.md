@@ -60,8 +60,8 @@ RAMAS
 	M e1
 	O     merge
 	|\
-	O |   commit final ejercicio 2 
-	| O   commit final provisional ejercicio 1
+	O |   2_PS_LG: fin del ejercicio 2 (provisional) 
+	| O   1_PS_LG: fin del ejercicio 1
 	|/
 	O     initial commit
   
@@ -69,13 +69,12 @@ RAMAS
 	
 	
 	M e1
+	O     2_PS_LG: fin del ejercicio 2
+	|
 	O     merge
 	|\
-	| O   final version ejercicio 1
-	O |   merge
-	|\|
-	O |   commit final ejercicio 2 
-	| O   commit final provisional ejercicio 1
+	O |   2_PS_LG: fin del ejercicio 2 (provisional)  
+	| O   1_PS_LG: fin del ejercicio 1
 	|/
 	O     initial commit
 
