@@ -52,4 +52,31 @@ IMPORTANTE
 		ya que considero este "GET" la parte menos fundamental del ejercicio.
 		En cuanto resuelva este problema subiré la funcionalidad final.
 	
-		
+
+RAMAS
+-----
+	El estado actual del repositorio es el siguiente:
+
+	M e1
+	O     merge
+	|\
+	O |   commit final ejercicio 2 
+	| O   commit final provisional ejercicio 1
+	|/
+	O     initial commit
+  
+	En caso de resolver el proble de conectividad, la estrategia a seguir es la siguiente:
+	
+	
+	M e1
+	O     merge
+	|\
+	| O   final version ejercicio 1
+	O |   merge
+	|\|
+	O |   commit final ejercicio 2 
+	| O   commit final provisional ejercicio 1
+	|/
+	O     initial commit
+
+	
