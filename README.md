@@ -47,27 +47,14 @@ Ejercicio 2
 IMPORTANTE
 ----------
 	Notas sobre el ejercicio 2:
-		Debido a un problema de conectividad, he optado por embeber los datos fuente.
-		He considerado esta opción para poder subir una versión funcional,
-		ya que considero este "GET" la parte menos fundamental del ejercicio.
-		En cuanto resuelva este problema subiré la funcionalidad final.
+		Obtiene de forma remota los datos.
+		Para probar el ejercicio he utilizado "Firefox 53.0".
 	
 
 RAMAS
 -----
 	El estado actual del repositorio es el siguiente:
 
-	M e1
-	O     merge
-	|\
-	O |   2_PS_LG: fin del ejercicio 2 (provisional) 
-	| O   1_PS_LG: fin del ejercicio 1
-	|/
-	O     initial commit
-  
-	En caso de resolver el proble de conectividad, la estrategia a seguir es la siguiente:
-	
-	
 	M e1
 	O     2_PS_LG: fin del ejercicio 2
 	|
